@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'pageNotFound' => 'Page not found',
+    'backToHome' => 'Go to the main page',
+    'pageWasNotFound' => 'Unfortunately, the page was not found.',
+    'allRightsReserved' => 'All rights reserved.',
+    'privacyPolicy' => 'Privacy Policy',
+    'developedBy' => 'Developed by',
+    'galleryCozinessComfort' => 'Gallery of coziness and comfort',
+    'duringBusinessHours' => 'All calls and messages are processed only during business hours',
+    'almaty' => 'Almaty',
+    'shymkent' => 'Shymkent',
+    'nursultan' => 'Nursultan',
+    'whatWeHave' => 'Take a look at what we have',
+    'goToGallery' => 'go to the gallery',
+    'downloadMore' => 'download more',
+    'readMore' => 'read more',
+    'seeAlso' => 'See also',
+    'goNews' => 'go to the news section',
+    'news' => 'news',
+    'contacts' => 'contacts',
+    'ourPartners' => 'our partners',
+    'gallery' => 'gallery',
+    'moreDetailed' => 'More detailed',
+];
